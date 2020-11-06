@@ -1,0 +1,8 @@
+.routs{
+	background-color: lightblue;
+	margin: 5px;
+}
+body{
+	display: flex;
+	align-content: center;
+}
